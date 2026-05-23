@@ -1,0 +1,11 @@
+{
+  "last_updated": null,
+  "processed_activity_ids": [],
+  "distances": {
+    "1_mile": { "efforts": [] },
+    "5k": { "efforts": [] },
+    "10k": { "efforts": [] },
+    "half_marathon": { "efforts": [] },
+    "marathon": { "efforts": [] }
+  }
+}
