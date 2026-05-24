@@ -3,12 +3,17 @@
 
 import json
 import os
-import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(__file__).parent.parent / ".env")
+except ImportError:
+    pass
 
 CLIENT_ID = os.environ["STRAVA_CLIENT_ID"]
 CLIENT_SECRET = os.environ["STRAVA_CLIENT_SECRET"]
