@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T12:09:07.349217+00:00",
+  "last_updated": "2026-06-01T11:27:41.188389+00:00",
   "processed_activity_ids": [
     282058870,
     282059165,
@@ -784,7 +784,9 @@
     18481029858,
     18598984844,
     18618710694,
-    18632755253
+    18632755253,
+    18692513902,
+    18713048044
   ],
   "distances": {
     "1_mile": {
@@ -6136,6 +6138,20 @@
           "date": "2026-05-24",
           "activity_id": 18632755253,
           "activity_name": "Comer Woods Trust 10 trail run"
+        },
+        {
+          "elapsed_time": 597,
+          "moving_time": 597,
+          "date": "2026-05-28",
+          "activity_id": 18692513902,
+          "activity_name": "It is HOT \ud83e\udd75 \ud83c\udfc3\u200d\u2642\ufe0f"
+        },
+        {
+          "elapsed_time": 646,
+          "moving_time": 646,
+          "date": "2026-05-30",
+          "activity_id": 18713048044,
+          "activity_name": "\ud83c\udf66"
         }
       ]
     },
