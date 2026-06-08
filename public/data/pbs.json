@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T11:27:41.188389+00:00",
+  "last_updated": "2026-06-08T10:47:33.713909+00:00",
   "processed_activity_ids": [
     282058870,
     282059165,
@@ -786,7 +786,9 @@
     18618710694,
     18632755253,
     18692513902,
-    18713048044
+    18713048044,
+    18760280509,
+    18828449899
   ],
   "distances": {
     "1_mile": {
@@ -6152,6 +6154,20 @@
           "date": "2026-05-30",
           "activity_id": 18713048044,
           "activity_name": "\ud83c\udf66"
+        },
+        {
+          "elapsed_time": 575,
+          "moving_time": 575,
+          "date": "2026-06-02",
+          "activity_id": 18760280509,
+          "activity_name": "New shoes day! New shoes day!"
+        },
+        {
+          "elapsed_time": 575,
+          "moving_time": 575,
+          "date": "2026-06-07",
+          "activity_id": 18828449899,
+          "activity_name": "Skegness 5k"
         }
       ]
     },
