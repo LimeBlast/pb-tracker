@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T11:48:20.631462+00:00",
+  "last_updated": "2026-06-29T10:51:46.538775+00:00",
   "processed_activity_ids": [
     282058870,
     282059165,
@@ -795,7 +795,10 @@
     18914301415,
     18948401383,
     18974825688,
-    18994019002
+    18994019002,
+    19031559099,
+    19058445671,
+    19095617308
   ],
   "distances": {
     "1_mile": {
@@ -6224,6 +6227,27 @@
           "date": "2026-06-20",
           "activity_id": 18994019002,
           "activity_name": "Morning Run"
+        },
+        {
+          "elapsed_time": 536,
+          "moving_time": 536,
+          "date": "2026-06-23",
+          "activity_id": 19031559099,
+          "activity_name": "Morning Run (before it gets too hot)"
+        },
+        {
+          "elapsed_time": 549,
+          "moving_time": 549,
+          "date": "2026-06-25",
+          "activity_id": 19058445671,
+          "activity_name": "In B4 the sun \u2600\ufe0f"
+        },
+        {
+          "elapsed_time": 526,
+          "moving_time": 526,
+          "date": "2026-06-28",
+          "activity_id": 19095617308,
+          "activity_name": "Trust 10 Trail Run"
         }
       ]
     },
